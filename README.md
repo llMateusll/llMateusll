@@ -1,4 +1,4 @@
-Ola,🖐Meu Nome é Mateus santana.
+Ola,🖐meu nome é Mateus santana.
 <br><br><br>
 <div align="center">
   <a href="https://github.com/llMateusll">
