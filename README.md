@@ -10,12 +10,15 @@ Possuo experiência de 10 meses na programação com desenvolvimento Back-End e 
 
 👩‍💻 IDE : <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /><br>
 
-🚀 Frameworks :  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <br>
+🚀 Frameworks :  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <br><br><br>
 
-
-<br>
 <div align="">
   <a href="https://github.com/llMateusll">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llMateusll&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llMateusll&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
+
+  
+  
+  
+  
