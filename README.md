@@ -1,24 +1,30 @@
-Olá,🖐meu nome é Mateus silva.<br>
+<h1 align="center">Oi 👋, eu sou Mateus Silva</h1>
+<h3 align="center">sou um desenvolvedor Back-End e Front-End no meu atual emprego. estou cursando analise e desenvolvimento de sistemas e procurando sempre aprender mais.</h3>
 
-Possuo experiência de 10 meses na programação com desenvolvimento Back-End e Front-End no meu atual emprego. estou cursando analise e desenvolvimento de sistemas e procurando sempre aprender mais.<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=llmateusll&label=Profile%20views&color=0e75b6&style=flat" alt="llmateusll" /> </p>
 
-👩‍💻 Languages : <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llmateusll" alt="llmateusll" /></a> </p>
+<img align="right" alt="coding" width="400"" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+- 🔭 no momento estou trabalhando **NTL - NOVA TECNOLOGIA**
 
-⚡ Database : <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <br>
+- 🌱 atualmente estou aprendendo **Laravel,java,node.**
 
-📚 Education : <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />  <br>
+- 📫 Como chegar até mim **mateus.d.santana.99@gmail.com**
 
-👩‍💻 IDE : <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" /><br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/llmateusll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="llmateusll" height="30" width="40" /></a>
+<a href="https://twitter.com/mateusdev1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mateusdev1999" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mateus-santana-18a69521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mateus-santana-18a69521a/" height="30" width="40" /></a>
+<a href="https://instagram.com/mateusllsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mateusllsilva" height="30" width="40" /></a>
+<a href="https://discord.gg/llShiroll #4743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="llShiroll #4743" height="30" width="40" /></a>
+</p>
 
-🚀 Frameworks :  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> <br><br><br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-<div align="">
-  <a href="https://github.com/llMateusll">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llMateusll&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llMateusll&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=llmateusll&show_icons=true&locale=en&layout=compact" alt="llmateusll" /></p>
 
-  
-  
-  
-  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llmateusll&show_icons=true&locale=en" alt="llmateusll" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=llmateusll&" alt="llmateusll" /></p>
