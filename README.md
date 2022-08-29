@@ -5,11 +5,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llmateusll" alt="llmateusll" /></a> </p>
 <img align="right" alt="coding" width="400"" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
                                                                                                                             
-- 🔭 no momento estou trabalhando **NTL - NOVA TECNOLOGIA**
+🔭 no momento estou trabalhando **NTL - NOVA TECNOLOGIA**
 
-- 🌱 atualmente estou aprendendo **Laravel,java,node.**
+🌱 atualmente estou aprendendo **Laravel,java,node.**
 
-- 📫 Como chegar até mim **mateus.d.santana.99@gmail.com**
+📫 Como chegar até mim **mateus.d.santana.99@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
