@@ -1,9 +1,7 @@
 <h1 align="center">Oi 👋, eu sou Mateus Silva</h1>
-<h3 align="center">Sou um desenvolvedor junior Back-End e Front-End no meu atual emprego. estou cursando técnico em desenvolvimento de sistemas e procurando sempre aprender mais.</h3>
+<h3 align="center">Sou um desenvolvedor fullstack com 2 anos de experiência na área. Atualmente, estou cursando Técnico em
+Desenvolvimento de Sistemas, buscando aprimorar minhas habilidades e conhecimentos. Sou apaixonado por tecnologia e tenho habilidades em desenvolvimento de software, design de interfaces de usuário e resolução de problemas. Sou proativo, autodidata e tenho facilidade em aprender novas tecnologias.</h3>
 
-[![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)](https://rishavchanda.io)
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=llmateusll" alt="llmateusll" /></a> </p>
-<img align="right" alt="coding" width="400"" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
                                                                                                                             
 🔭 no momento estou trabalhando **NTL - NOVA TECNOLOGIA**
 
