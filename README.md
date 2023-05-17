@@ -3,11 +3,11 @@
 Desenvolvimento de Sistemas, buscando aprimorar minhas habilidades e conhecimentos. Sou apaixonado por tecnologia e tenho habilidades em desenvolvimento de software, design de interfaces de usuário e resolução de problemas. Sou proativo, autodidata e tenho facilidade em aprender novas tecnologias.</h3>
 
                                                                                                                             
-🔭 no momento estou trabalhando **NTL - NOVA TECNOLOGIA**
+💻 Trabalhando na **NTL - NOVA TECNOLOGIA** no momento
 
-🌱 atualmente estou aprendendo **Laravel,java,node.**
+📚 Atualmente estou aprendendo **Laravel,java,node.**
 
-📫 Como chegar até mim **mateus.d.santana.99@gmail.com**
+📧 Como chegar até mim **mateus.d.santana.99@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
