@@ -1,13 +1,8 @@
-<h1 align="center">Oi 👋, eu sou Mateus Silva</h1>
-<h3 align="center">Sou um desenvolvedor fullstack com 2 anos de experiência na área. Atualmente, estou cursando Técnico em
-Desenvolvimento de Sistemas, buscando aprimorar minhas habilidades e conhecimentos. Sou apaixonado por tecnologia e tenho habilidades em desenvolvimento de software, design de interfaces de usuário e resolução de problemas. Sou proativo, autodidata e tenho facilidade em aprender novas tecnologias.</h3>
-
-                                                                                                                            
+![Texto Alternativo](https://images2.imgbox.com/fd/58/Q8RJg0q9_o.png)
+                                                                                                            
 💻 Trabalhando na **NTL - NOVA TECNOLOGIA** no momento
 
 📚 Atualmente estou aprendendo **Laravel,java,node.**
-
-📧 Como chegar até mim **mateus.d.santana.99@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
