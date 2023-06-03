@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llMateusll&layout=compact&hide_border=true&title_color=3CB371&text_color=3CB371&bg_color=0d1117" />
 </div>
 <div align="center">                                                                                                              
-<h3>Conecte-se comigo:</h3>
+<h3>connect with me:</h3>
 <p>
 <a href="https://codepen.io/llmateusll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="llmateusll" height="30" width="40" /></a>
 <a href="https://twitter.com/mateusdev1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mateusdev1999" height="30" width="40" /></a>
