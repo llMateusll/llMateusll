@@ -3,9 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Silva+Santana;I'm+25+years+old;I+from+Brasil,+RJ;I+study+systems+development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=llMateusll&show_icons=true&count_private=true&hide_border=true&title_color=B22222&icon_color=B22222&text_color=c9d1d9&bg_color=0d1117" alt="Mateus Silva de Santana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llMateusll&layout=compact&hide_border=true&title_color=B22222&text_color=B22222&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=llMateusll&show_icons=true&count_private=true&hide_border=true&title_color=B22222&icon_color=B22222&text_color=c9d1d9&bg_color=00000000" alt="Mateus Silva de Santana github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llMateusll&layout=compact&hide_border=true&title_color=B22222&text_color=B22222&bg_color=00000000" />
 </div>
+
 <div align="center">                                                                                                              
 <h3>connect with me:</h3>
 <p>
