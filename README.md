@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=header&fontSize=30&fontAligny=35&fontColor=fff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header&fontSize=30&fontAligny=35&fontColor=fff"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA500&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Silva+Santana;I'm+26+years+old;I+from+Brasil,+RJ;I+study+systems+development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3B82F6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Silva+Santana;I'm+26+years+old;I+from+Brasil,+RJ;I+study+systems+development+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=llMateusll&show_icons=true&count_private=true&hide_border=true&title_color=FFA500&icon_color=FFA500&text_color=c9d1d9&bg_color=00000000" alt="Mateus Silva de Santana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llMateusll&layout=compact&hide_border=true&title_color=FFA500&text_color=FFA500&bg_color=00000000" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=llMateusll&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9&bg_color=00000000" alt="Mateus Silva de Santana github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llMateusll&layout=compact&hide_border=true&title_color=3B82F6&text_color=3B82F6&bg_color=00000000" />
 </div>
 
 <div align="center">                                                                                                              
@@ -61,5 +61,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{llMateusll}/count.svg" /></p> 
 <br>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer"/>  
 </div>
