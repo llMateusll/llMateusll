@@ -57,8 +57,6 @@
   </a>
 </p>
 
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{llMateusll}/count.svg" /></p> 
 <br>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer"/>  
